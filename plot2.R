@@ -1,4 +1,4 @@
-# Coursera Data Science: Exploratory Data Analysis
+# Coursera Data Science: Exploratory Data AnalysiS
 # Course project 1: plot2
 # Cheng-Han Yu
 ################################################################################
